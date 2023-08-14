@@ -1,0 +1,32 @@
+ 
+    li{
+        padding: 5px;
+        font:bold 50px chiller;
+        border: 5px solid #151515;border-radius:0px;
+        display: inline-block;
+        align-content:center;
+        background:whitesmoke;
+        text-align: center;
+      }
+      li a {
+        text-decoration:none;
+        color:black;
+      }
+      li a:hover{
+        color:whitesmoke;
+        transition: .3s;
+      }
+      h2{
+        font-size: 40px;
+        text-align: center;
+        }
+        nav{
+          style-text:none;
+        }
+        body{
+            background-color: black;
+        }
+        
+        li{
+            width: 190px;
+        }

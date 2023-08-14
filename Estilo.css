@@ -1,0 +1,46 @@
+h1{
+  font-size: 50px;
+  font-family:chiller;
+  font-weight: bolder;
+}
+h1{
+  border: 10px solid black;
+  display:block;
+  text-align: center;
+  width:800px;margin: auto;
+}
+div {
+background:black;width: 1000px;border:#151515 solid 40px;
+margin: 50px;margin-left:auto;margin-right:auto;
+padding: 50px;}
+
+li {
+  padding: 5px;
+  border: 5px solid #151515; border-radius: 0px;
+  display: inline-block;
+  align-content:center;
+  background:whitesmoke;
+
+}
+li a {
+  font-family:chiller bold 58px ;
+  text-decoration:none;
+  color: black;
+}
+li a:hover{
+  color:whitesmoke;
+  transition: .3s;
+}
+h2{
+  font-size: 40px;
+  text-align: center;
+  
+  }
+  nav{
+    font-family:chiller bold 58px ;
+  }
+body{
+  background-color: black;
+
+}
+
